@@ -1,1 +1,1 @@
-export {default }from './IndexLayout'
+export { default }from './IndexLayout'
